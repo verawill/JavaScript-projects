@@ -93,18 +93,21 @@ img{
 
 .arrows .hour{
     height: 80px;
+    width: 6px;
     transform: rotate(30deg);
     
 }
 
 .arrows .second{
     height: 110px;
+    width: 5px;
     transform: rotate(250deg);
     
 }
 
 .arrows .minute {
     height: 150px;
-    background-color: gold;
+    background-color: red;
+    width: 3px;
 }
 
